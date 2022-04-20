@@ -1,2 +1,2 @@
-# front-end
-All my frontend projects in one place
+# calculator
+project based on calculation done by a calculator
